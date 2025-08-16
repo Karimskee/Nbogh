@@ -1,2 +1,2 @@
-# nbogh
+# Nbogh
 Digitopia hackathon project
